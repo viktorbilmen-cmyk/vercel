@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://redrockkapital.com/$1"
+      "destination": "https://redrockkapital.com"
     }
   ]
 }
